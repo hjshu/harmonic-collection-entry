@@ -12,19 +12,19 @@ Then, find the copy of the project on your own GitHub account.
 
 
 
-# 1. Update Your File & Serve Your Repository into a Page
+# Update Your File & Serve Your Repository into a Page
 
-i. Upload your own file and NAME IT EXACTLY like what's in the template. i.e. "index.html". it will overide the template file. Commit your change. 
+1. Upload your own file and NAME IT EXACTLY like what's in the template. i.e. "index.html". it will overide the template file. Commit your change. 
 
 <img width="1766" height="851" alt="Screenshot 2025-10-07 at 7 14 16 PM" src="https://github.com/user-attachments/assets/188caf68-269e-4eee-8209-7a35c96b8801" />
 
 
-ii. Go to "Settings" > "General" > and make sure "Default Branch" says "Main"
+2. Go to "Settings" > "General" > and make sure "Default Branch" says "Main"
 
 <img width="1470" height="660" alt="Screenshot 2025-09-30 at 5 32 36 PM" src="https://github.com/user-attachments/assets/17deefd6-cfd6-4c6d-bf6f-22cebe5090f7" />
 
 
-iii. Go to "Settings" > "Pages"> Find the "Build & Deployment" section, makesure under "Branch" you select "main"
+3. Go to "Settings" > "Pages"> Find the "Build & Deployment" section, makesure under "Branch" you select "main"
 <img width="1841" height="652" alt="Screenshot 2025-10-07 at 7 33 56 PM" src="https://github.com/user-attachments/assets/0179c84e-7ff2-4a42-aa71-8aab374422a6" />
 
 ---
