@@ -25,7 +25,8 @@ Then, find the copy of the project on your own GitHub account.
 
 
 3. Go to "Settings" > "Pages"> Find the "Build & Deployment" section, makesure under "Branch" you select "main"
-<img width="1841" height="652" alt="Screenshot 2025-10-07 at 7 33 56 PM" src="https://github.com/user-attachments/assets/0179c84e-7ff2-4a42-aa71-8aab374422a6" />
+<img width="1876" height="711" alt="Screenshot 2025-10-07 at 7 34 03 PM" src="https://github.com/user-attachments/assets/36fb9412-3c77-4c91-aa0f-32dd022d7800" />
+
 
 ---
 
@@ -35,6 +36,8 @@ Then, find the copy of the project on your own GitHub account.
 Once you have uploaded your own file, go to "Settings" > "Pages" to find your url at the top. 
 Additionally, you can find the url on the "Deployments" on the right hand side. Click into deployment and find your url. 
 
-<img width="1354" height="889" alt="Screenshot 2025-10-07 at 11 23 58 AM" src="https://github.com/user-attachments/assets/fe51b7ca-bee4-4d88-8497-f357c43d440b" />
+<img width="1841" height="652" alt="Screenshot 2025-10-07 at 7 33 56 PM" src="https://github.com/user-attachments/assets/e4267bf9-14eb-4494-9bfc-6d476281c8d0" />
+
 <img width="1352" height="352" alt="Screenshot 2025-10-07 at 11 24 04 AM" src="https://github.com/user-attachments/assets/354a785c-9b94-4b14-b22d-dfd26ab09518" />
+
 
