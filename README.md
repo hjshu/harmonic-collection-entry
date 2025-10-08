@@ -12,7 +12,7 @@ Then, find the copy of the project on your own GitHub account.
 
 
 
-# Update Your File & Serve Your Repository into a Page
+# Update Your Files & Serve Your Repository into a Page
 
 1. Upload your own file and NAME IT EXACTLY like what's in the template. i.e. "index.html". it will overide the template file. Commit your change. 
 
